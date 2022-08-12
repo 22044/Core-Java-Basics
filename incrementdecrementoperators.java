@@ -15,6 +15,7 @@ public class incrementdecrementoperators {
         System.out.println(i);
         System.out.println(++i);
         System.out.println(i);
+        System.out.println(i);
 
    // i++ i is used and then incremented
    // ++i is is incremented and then used
