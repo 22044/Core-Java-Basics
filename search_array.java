@@ -1,8 +1,6 @@
 import java.util.Scanner;
-
-
-public class search_array {
-    public static void main(String[] args) 
+public class search_array {   
+     public static void main(String[] args) 
     {
         int n,x,flag=0,i=0;                                                             //declaring variables
         Scanner s=new Scanner(System.in);                                               //scanning user inputs
@@ -37,6 +35,5 @@ public class search_array {
         {
             System.out.println("Element not found in an array");
         }
-
     }    
 }
